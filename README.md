@@ -6,6 +6,7 @@ i just want to share that
 # Build
 - Download Visual Studio Community
 - download directx sdk: [directx](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+- open vs and click build
 
 # info 2019 Visual studio
 - if you want do it 2019 version of vs:
